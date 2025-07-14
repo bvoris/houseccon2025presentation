@@ -1,6 +1,3 @@
-# houseccon2025presentation
-My HOUSECCON 2025 presentation of my mentorship program.
-
 # HOUSECCON 2025 Presentation
 <IMG SRC="https://github.com/bvoris/houseccon2025presentation/blob/main/flyer.jpg">
 Created By:Brad Voris <BR />
