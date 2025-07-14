@@ -6,6 +6,11 @@ Description: A copy of my presentation for HOUSECCON 2025. The presentation prov
 
 ## Link To the Presentation
 
+## Documentation for the existing mentorship program
+https://github.com/bvoris/MyMentorshipProgram
+
+## Resources for a mentorship program
+https://www.cybermentordojo.com
 
 ## Connect with me at
 
