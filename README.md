@@ -1,5 +1,5 @@
 # HOUSECCON 2025 Presentation
-<IMG SRC="https://github.com/bvoris/houseccon2025presentation/blob/main/flyer.jpg">
+<IMG SRC="https://github.com/bvoris/houseccon2025presentation/blob/main/Speaker%20Tiles_LinkedIn_BVoris.png?raw=true">
 Created By:Brad Voris <BR />
 Description: A copy of my presentation for HOUSECCON 2025. The presentation provides detail on my mentorship program, what employers are looking for, and how to develop your own plan.
 <BR /><BR />
