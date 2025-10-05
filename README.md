@@ -5,8 +5,8 @@ Description: A copy of my presentation for HOUSECCON 2025. The presentation prov
 <BR /><BR />
 
 ## Link To the Presentation
-https://github.com/bvoris/houseccon2025presentation/blob/main/HOUSECCON2025%20Presentation.pdf
-
+https://github.com/bvoris/houseccon2025presentation/blob/main/HOUSECCON2025%20Presentation.pdf<BR />
+https://github.com/bvoris/houseccon2025presentation/blob/main/HOUSECCON2025%20Presentation.pptx<BR /><BR />
 ## Documentation for the existing mentorship program
 https://github.com/bvoris/MyMentorshipProgram
 
